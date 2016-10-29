@@ -1,0 +1,8 @@
+Deskripsi Aolikasi
+
+Nama	: ForecastForYou
+
+deskripsi :	
+Aplikasi ini merupakan aplikasi untuk memperkirakan cuaca berdasararkan lokasi pengguna. Aplikasi ini dapat memprediksi beberapa tempat
+berdasrkna pilihan user pada google maps. Aplikasi ini dapat memprediksi 7 hari kedepan atau perjam. Aplikasi ini dapat memunculkan grafik
+dari cuaca. 
