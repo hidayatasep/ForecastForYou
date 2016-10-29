@@ -1,0 +1,8 @@
+fitur : 
+-Melihat perkiraaan cuaca di lokasi pengguna
+-menambha perkiraan cuaca dengan mengeset lokasi menggunakan google maps
+-melihat perkiraan cuara per hari dan perjam
+-melihat perkiraan cuaca 7 hari
+-melihat perkiraan cuaca antara lokasi tujuan dengan lokasi asala
+-menampilkan widget
+-melihatkan grafik dari cuaca
